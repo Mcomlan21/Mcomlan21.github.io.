@@ -32,3 +32,4 @@ sequenceDiagram
     Attacker-xSteve: We are about to 
     destroy Botnet
     Botnet->>Attacker: I agree
+Each participant contributes to the scenario because they all can pretend to pose as a malicious hacker that's trying to g to your get to your  personal idenity far as getting access to your social security card,bank statements, and other bills that are in your name. Defensive measures are triggered because personal information is getting hacked by those participants that are posing as malicious hackers.  
